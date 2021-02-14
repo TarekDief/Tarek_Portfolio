@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tarek Dief | Portfolio</title>
+    <link>https://TarekDief.github.io/Tarek_Portfolio/categories/</link>
+    <description>Recent content in Categories on Tarek Dief | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 by [Tarek Dief](https://www.linkedin.com/in/tarek-dief-a0765010a/)</copyright>
+    <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://TarekDief.github.io/Tarek_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/categories/embedded/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/categories/embedded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/categories/manufacturing/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/categories/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/categories/testing/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/categories/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling &amp; Control</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/categories/modeling-control/</link>
+      <pubDate>Thu, 20 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/categories/modeling-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/categories/publications/</link>
+      <pubDate>Thu, 12 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

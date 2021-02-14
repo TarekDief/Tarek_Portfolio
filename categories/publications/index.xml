@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Tarek Dief | Portfolio</title>
+    <link>https://TarekDief.github.io/Tarek_Portfolio/categories/publications/</link>
+    <description>Recent content in Publications on Tarek Dief | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 by [Tarek Dief](https://www.linkedin.com/in/tarek-dief-a0765010a/)</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://TarekDief.github.io/Tarek_Portfolio/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kite power system.</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-2/</link>
+      <pubDate>Thu, 12 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-2/</guid>
+      <description>The aim of kite power system is to demonstrate a new technology to harvest wind energy with substantially lower material and environmental footprints with higher capacity factor than conventional wind turbines.</description>
+    </item>
+    
+    <item>
+      <title>Quad-rotor</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-3/</link>
+      <pubDate>Fri, 12 Sep 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-3/</guid>
+      <description>Quad-rotor is one of the most famous drones, it is a VTOL (Vertical Take-Off and Landing) aircraft which could be used in many applications like military surveillance, agriculture services which require high level of safety with low cost.</description>
+    </item>
+    
+  </channel>
+</rss>

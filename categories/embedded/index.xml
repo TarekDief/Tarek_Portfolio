@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded on Tarek Dief | Portfolio</title>
+    <link>https://TarekDief.github.io/Tarek_Portfolio/categories/embedded/</link>
+    <description>Recent content in Embedded on Tarek Dief | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 by [Tarek Dief](https://www.linkedin.com/in/tarek-dief-a0765010a/)</copyright>
+    <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://TarekDief.github.io/Tarek_Portfolio/categories/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REMOTE HEALTH MONITORING</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-4/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-4/</guid>
+      <description>The objective of this project is to develop user-friendly, wearable sensor technology for remote health monitoring of patients with neurological conditions to minimize their hospital visits and reduce the risk of COVID-19 spread.</description>
+    </item>
+    
+    <item>
+      <title>X-06 airplane, PDAS.</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-1/</link>
+      <pubDate>Thu, 20 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-1/</guid>
+      <description>The company is developing a reusable launch vehicle as a tourism spaceship with combustion mode switch engine (patent in 2012) have both modes propulsion.</description>
+    </item>
+    
+    <item>
+      <title>Kite power system.</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-2/</link>
+      <pubDate>Thu, 12 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-2/</guid>
+      <description>The aim of kite power system is to demonstrate a new technology to harvest wind energy with substantially lower material and environmental footprints with higher capacity factor than conventional wind turbines.</description>
+    </item>
+    
+    <item>
+      <title>Quad-rotor</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-3/</link>
+      <pubDate>Fri, 12 Sep 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-3/</guid>
+      <description>Quad-rotor is one of the most famous drones, it is a VTOL (Vertical Take-Off and Landing) aircraft which could be used in many applications like military surveillance, agriculture services which require high level of safety with low cost.</description>
+    </item>
+    
+    <item>
+      <title>CanSat project</title>
+      <link>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-6/</link>
+      <pubDate>Fri, 01 Jul 2011 12:14:34 +0600</pubDate>
+      
+      <guid>https://TarekDief.github.io/Tarek_Portfolio/portfolio/project-6/</guid>
+      <description>Project Details An Educational Nanosatellite microcontroller project utilizing various sensors, actuators, transmitters, and receivers.</description>
+    </item>
+    
+  </channel>
+</rss>
